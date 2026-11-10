@@ -1,0 +1,7 @@
+ext/
+outputs/
+__pycache__/
+*.egg-info/
+*.duckdb
+*.duckdb.wal
+.ipynb_checkpoints/
